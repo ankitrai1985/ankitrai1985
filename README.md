@@ -34,6 +34,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,springboot,aws,google cloud,github,git,gradle,maven" />
     <img src="https://skillicons.dev/icons?i=mysql,db2,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=bitbucket,docker,gcp,idea,jenkins,linux,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,spring,sqlite" /><br>
 </div>
 
 <br/>
@@ -62,19 +64,11 @@
 
 <hr/>
 
-<h2 align="center">🎓 Certifications Obtained 🎓</h2>
-<br/>
-<div align="center">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-blue?logo=google-cloud&style=for-the-badge" />
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Former-Google%20Cloud%20Architect-blue?logo=google-cloud&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Google%20Cloud-Security%20Engineer-blue?logo=google-cloud&style=for-the-badge" />
-</div>
 <br/>
 
-![Profile views](https://img.shields.io/badge/Thanks%20for%20having%20a%20look%20at%20my%20profile!!-blue)
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
 <br/>
 
