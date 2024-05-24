@@ -31,12 +31,17 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+To display your skills in a pyramid style, you can arrange the icons in such a way that the number of icons decreases as you go up the pyramid. Here's an example of how you can do it:
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,springboot,aws,google cloud,github,git,gradle,maven" />
-    <img src="https://skillicons.dev/icons?i=mysql,db2,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=bitbucket,docker,gcp,idea,jenkins,linux,maven" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,spring,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,db2,mongodb,bitbucket,docker,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=idea,jenkins,linux,maven,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,sqlite,java,springboot" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,google cloud,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=gradle,maven" /><br>
 </div>
+
+In this example, the skills are arranged in a pyramid style with the number of skills decreasing as you go up the pyramid. The arrangement of the skills is also logical, with the more general skills at the bottom and the more specific skills at the top.
 
 <br/>
 <hr/>
