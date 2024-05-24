@@ -62,6 +62,8 @@
 
 <hr/>
 
+<h2 align="center">🎓 Certifications Obtained 🎓</h2>
+<br/>
 <div align="center">
     <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-blue?logo=google-cloud&style=for-the-badge" />
