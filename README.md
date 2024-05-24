@@ -64,9 +64,7 @@
 
 <br/>
 
-<div align="center">
-<a target='_blank'><img height='64' style='border:0px;height:64px; border='0' alt='Thanks for having a look at my profile!!' /></a>
-</div>
+![Profile views](https://img.shields.io/badge/Thanks%20for%20having%20a%20look%20at%20my%20profile!!-blue)
 
 <br/>
 
