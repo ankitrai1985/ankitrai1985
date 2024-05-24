@@ -62,6 +62,11 @@
 
 <hr/>
 
+<div align="center">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-blue?logo=google-cloud&style=for-the-badge" />
+</div>
+
 <br/>
 
 ![Profile views](https://img.shields.io/badge/Thanks%20for%20having%20a%20look%20at%20my%20profile!!-blue)
