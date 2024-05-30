@@ -65,22 +65,22 @@
 
 <br/><br/>
 
-<div align="center" style="background-color:#1e1e1e; color:white; padding:20px; border-radius:10px;">
+<div align="center" style="background-color:#1e1e1e; color:white; padding:20px; border-radius:10px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);">
     <h2 style="color:#FFD700;">📜 Certifications 📜</h2>
-    <table style="width:100%;">
+    <table style="width:100%; border-spacing: 20px;">
         <tr>
-            <td align="center" width="50%" style="padding:10px;">
-                <h3 style="color:#FF6347;">Formally Certified</h3>
-                <ul style="list-style-type:none; padding:0;">
-                    <li>Google Cloud Solution Architect</li>
-                    <li>Google Cloud Security Engineer</li>
+            <td align="center" width="50%" style="padding:10px; background-color:#2e2e2e; border-radius:10px;">
+                <h3 style="color:#FF6347;">🎓 Formally Certified</h3>
+                <ul style="list-style-type:none; padding:0; font-size:1.1em;">
+                    <li>🟡 Google Cloud Solution Architect</li>
+                    <li>🟡 Google Cloud Security Engineer</li>
                 </ul>
             </td>
-            <td align="center" width="50%" style="padding:10px;">
-                <h3 style="color:#7FFFD4;">Currently Certified</h3>
-                <ul style="list-style-type:none; padding:0;">
-                    <li>AWS Cloud Practitioner</li>
-                    <li>Google Digital Cloud</li>
+            <td align="center" width="50%" style="padding:10px; background-color:#2e2e2e; border-radius:10px;">
+                <h3 style="color:#7FFFD4;">🎓 Currently Certified</h3>
+                <ul style="list-style-type:none; padding:0; font-size:1.1em;">
+                    <li>🟢 AWS Cloud Practitioner</li>
+                    <li>🟢 Google Digital Cloud</li>
                 </ul>
             </td>
         </tr>
