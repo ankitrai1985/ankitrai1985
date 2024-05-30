@@ -65,22 +65,20 @@
 
 <br/><br/>
 
-<hr/>
-
-<div align="center">
-    <h2>📜 Certifications 📜</h2>
-    <table>
+<div align="center" style="background-color:#1e1e1e; color:white; padding:20px; border-radius:10px;">
+    <h2 style="color:#FFD700;">📜 Certifications 📜</h2>
+    <table style="width:100%;">
         <tr>
-            <td align="center" width="50%">
-                <h3>Formally Certified</h3>
-                <ul style="list-style-type:none;">
+            <td align="center" width="50%" style="padding:10px;">
+                <h3 style="color:#FF6347;">Formally Certified</h3>
+                <ul style="list-style-type:none; padding:0;">
                     <li>Google Cloud Solution Architect</li>
                     <li>Google Cloud Security Engineer</li>
                 </ul>
             </td>
-            <td align="center" width="50%">
-                <h3>Currently Certified</h3>
-                <ul style="list-style-type:none;">
+            <td align="center" width="50%" style="padding:10px;">
+                <h3 style="color:#7FFFD4;">Currently Certified</h3>
+                <ul style="list-style-type:none; padding:0;">
                     <li>AWS Cloud Practitioner</li>
                     <li>Google Digital Cloud</li>
                 </ul>
@@ -88,6 +86,8 @@
         </tr>
     </table>
 </div>
+
+<hr/>
 
 <br/>
 
