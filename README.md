@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **springboot java project**
  
  🌱 I’m currently learning **Github Actions and AWS**
 
@@ -34,10 +34,11 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=gradle,maven,java" /><br>
-    <img src="https://skillicons.dev/icons?i=springboot,aws,google cloud,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,db2,mongodb,bitbucket,docker,gcp,idea,jenkins,linux,postman,spring,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=gradle,maven,java,springboot,aws,googlecloud" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,mysql,db2,mongodb,bitbucket" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,gcp,idea,jenkins,linux,postman,spring,sqlite" /><br>
 </div>
+
 
 
 <br/>
