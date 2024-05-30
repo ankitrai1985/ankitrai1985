@@ -80,7 +80,7 @@
                 <h3 style="color:#7FFFD4;">🎓 Currently Certified</h3>
                 <ul style="list-style-type:none; padding:0; font-size:1.1em;">
                     <li>🟢 AWS Cloud Practitioner</li>
-                    <li>🟢 Google Digital Cloud</li>
+                    <li>🟢 Google Digital Cloud leader</li>
                 </ul>
             </td>
         </tr>
