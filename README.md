@@ -34,10 +34,11 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=gradle,maven" /><br>
-    <img src="https://skillicons.dev/icons?i=java,springboot,aws,google cloud,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,db2,mongodb,bitbucket,docker,gcp,idea,jenkins,linux,maven,postman,spring,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=gradle,maven,java" /><br>
+    <img src="https://skillicons.dev/icons?i=springboot,aws,google cloud,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,db2,mongodb,bitbucket,docker,gcp,idea,jenkins,linux,postman,spring,sqlite" /><br>
 </div>
+
 
 <br/>
 <hr/>
