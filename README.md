@@ -67,6 +67,28 @@
 
 <hr/>
 
+<div align="center">
+    <h2>📜 Certifications 📜</h2>
+    <table>
+        <tr>
+            <td align="center" width="50%">
+                <h3>Formally Certified</h3>
+                <ul style="list-style-type:none;">
+                    <li>Google Cloud Solution Architect</li>
+                    <li>Google Cloud Security Engineer</li>
+                </ul>
+            </td>
+            <td align="center" width="50%">
+                <h3>Currently Certified</h3>
+                <ul style="list-style-type:none;">
+                    <li>AWS Cloud Practitioner</li>
+                    <li>Google Digital Cloud</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</div>
+
 <br/>
 
 <div style="text-align: center;">
@@ -76,4 +98,4 @@
 <br/>
 
 
-
+                
