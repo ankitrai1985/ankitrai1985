@@ -82,6 +82,7 @@
                 <ul style="list-style-type:none; padding:0; font-size:1.1em;">
                     <li>🟢 AWS Cloud Practitioner</li>
                     <li>🟢 Google Digital Cloud leader</li>
+                    <li>🟢 AWS Cloud developer</li>
                 </ul>
             </td>
         </tr>
